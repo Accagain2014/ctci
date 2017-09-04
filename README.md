@@ -8,7 +8,7 @@
 
 ## PROCESSING
 | Question | Importance | Extra Link |
-| :---: |:----: | :---: |
+| :--- |:----: | :---: |
 |[2_8_loop_detection](./src/2_8_loop_detection.cpp) | 5 | |
 |[2_7_Intersection](./src/2_7_Intersection.cpp)|5| |
 |[2_6_Palindrome](./src/2_6_Palindrome.cpp)| 4 | |
